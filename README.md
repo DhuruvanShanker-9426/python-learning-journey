@@ -21,7 +21,7 @@ I am consistently improving my skills by working on core Python concepts and app
 * Conditional Statements
 * Loops
 * Functions
-* Basic Problem Solving
+* Basic Problem Solving.
 
 ---
 
