@@ -8,7 +8,7 @@
 
 ## 📌 About
 
-This repository contains my daily Python practice as I build a strong foundation in programming and problem-solving.
+This repository contains my daily Python practice as I build a strong foundation in programming and problem-solving
 
 I am consistently improving my skills by working on core Python concepts and applying them through hands-on exercises.
 
